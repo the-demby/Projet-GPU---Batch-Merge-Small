@@ -168,7 +168,7 @@ make run_bench_coop    # Q3.3
 
 ---
 
-## 📄 Auteur
+## 📄 Auteur : Ismael DEMBELE
 
 Projet réalisé dans le cadre du cours "Programmation en GPU" - ENSAE 2025
 # Projet-GPU---Batch-Merge-Small
